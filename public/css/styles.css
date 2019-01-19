@@ -1,0 +1,27 @@
+.container-fluid {
+    position: relative;
+}
+
+.calendar{
+    position:absolute;
+    top:0;
+    left: 1000px;
+}
+
+.logo{
+    position:absolute;
+    top:0;
+    background: white; 
+}
+
+#main{
+    padding-top: 40px; 
+}
+
+.card-img-top{
+    height: 400px;
+}
+
+.page-footer{
+    background: #44bd32;
+}
